@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "777016f0f61e3404302c09c1",
+  "owner": "wegyvj",
+  "repo": "page-faab021f5f7124409ad3902e",
+  "title": "CK云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "faab021f5f7124409ad3902e",
+      "a": "CK云",
+      "b": "稳定全球clash加速器",
+      "entity": "CK云",
+      "brand": "CK云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6537b31d59b47673dab2ac53be6c823634271b8d0d582846d28dd4b17ca51e86",
+      "content": {
+        "primary_entity": "CK云",
+        "keyword1": "CK云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，CK云提供基础版、旗舰版与团队版三档订阅，月付从 ¥15 到 ¥85，按年付可省至 ¥150、¥350 与 ¥850。流量从 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版含 IPLC 专线并为游戏场景做优化。",
+          "AI_HERO_SUBTITLE": "CK云全球线路，按设备按流量选",
+          "AI_HERO_INTRO": "CK云是一款面向海外访问场景的加速服务，提供基础版、旗舰版、团队版三档订阅，覆盖不同流量与设备数量需求。用户可依手机、电脑或路由器规模选择套餐，并按客户端文档完成订阅配置。",
+          "AI_VISUAL_TITLE": "CK云稳定加速",
+          "AI_HIGHLIGHT_1": "三档订阅，¥15 起按月付",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "最多 20 台设备团队共享",
+          "AI_FEATURES_TITLE": "套餐与适配",
+          "AI_FEATURES_INTRO": "CK云按流量、设备数和线路类型区分套餐，选型时先确认日常用量与同时在线设备。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按实际用量升级更划算。",
+          "AI_FEATURE_TITLE_2": "按设备数选订阅",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，家庭与小组按人数匹配。",
+          "AI_FEATURE_TITLE_3": "按周期支付",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付可省约两个月费用，长期使用建议直接选择年度订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "依设备类型挑选客户端，桌面端、移动端与路由器各有对应订阅导入方式。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数、线路与支持上逐级增强，旗舰版适合流媒体与游戏，团队版面向多人协作。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "选定套餐后，确认设备适配要求，再依客户端文档导入订阅即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "按日常流量与同时在线设备数，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本与客户端类型，团队版可先梳理需要覆盖的设备清单。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依对应客户端文档导入订阅信息，完成后按文档说明测试线路连通性。",
+          "AI_CLOSING_TITLE": "选对版本更省心",
+          "AI_CLOSING_TEXT": "先明确流量与设备数，再下单 CK云对应套餐，订阅配置按客户端文档一步完成。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，支持3台设备同时在线，适合个人轻度使用。",
+          "AI_FAQ_ANSWER_2": "流量按套餐规格提供，超出后可在账户内查看升级选项，无需重新购买线路。",
+          "AI_FAQ_ANSWER_3": "基础版3台、旗舰版5台、团队版20台，按年付与月付在设备数量上保持一致。",
+          "AI_FAQ_ANSWER_4": "桌面端和移动端分别有对应客户端，可在购买后按设备系统选择适配版本。",
+          "AI_FAQ_ANSWER_5": "旗舰版每月35元，含300GB流量、5台设备和IPLC专线游戏加速优化，适合多设备用户。",
+          "AI_FAQ_INTRO": "订阅流量、设备限制与计费周期。",
+          "AI_FAQ_QUESTION_1": "基础版包含多少流量和设备？",
+          "AI_FAQ_QUESTION_2": "流量用完后如何处理？",
+          "AI_FAQ_QUESTION_3": "不同套餐支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_4": "如何选择适合设备的客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--vpn-zd8ez1i8w1csfu.com",
+    "host": "xn--vpn-zd8ez1i8w1csfu.com"
+  },
+  "file_hashes": {
+    "index.html": "eed54bd5f0aab60f54b563a33dd479a6132bbe723cf2cd468413212ba369a792",
+    "sitemap.xml": "1a16285002d1929ea3d2ba44b2ed4958742972a8bd0013ac983be3ed96b2a4a8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "eb0a4577f8a7fd4a091fcb1aaf447099f8bcc4b86354369b31a875a04760ba77",
+    "robots.txt": "2f5527d69d98b46b8839360f88ad969bb71b313f289e38136da71fa64d8beaa9",
+    "bed35e070bfc1b45fdd9ab61cf16515c.txt": "c6480e3048c4ea5171c76f349f4b9606d8be5a1d560c9940ee4bb0bd272b820a"
+  },
+  "revision": "105cd8173a998c8fd9bf535dd41e0f3c132986835e1ce2c27eddc23c91bec9ed"
+}
